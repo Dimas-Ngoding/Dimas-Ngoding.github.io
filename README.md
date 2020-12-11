@@ -32,5 +32,12 @@ Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWAStore dan tidak diiz
 Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
 
 # Info
-Repo ini saya buat untuk mencoba github pages semata, jika ada dari pihak BWA yang mau takedown Repositories ini bisa email ke: 
-- dimasandhikadiputra@gmail.com
+Repo ini saya buat untuk mencoba github pages semata, jika ada dari pihak BWA yang mau takedown Repositories ini bisa email ke: dimasandhikadiputra@gmail.com
+
+<hr>
+
+Jika ada pihak BWA yang ingin mengecek member saya di Platform BWA bisa email juga ke : dimasandhikadiputra@gmail.com
+
+<hr>
+
+- Dimas Andhika - Member BWA
