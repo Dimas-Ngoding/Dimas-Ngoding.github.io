@@ -1,6 +1,3 @@
-# BWAStore HTML Starter Template
-Starter Template ini dapat anda gunakan untuk memulai project pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
-
 ## Lisensi
 
 MIT License
@@ -32,8 +29,8 @@ Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWAStore dan tidak diiz
 Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
 
 # Info
-Repo ini saya buat untuk mencoba github pages semata, jika ada dari pihak BWA yang mau takedown Repositories ini bisa email ke: dimasandhikadiputra@gmail.com
+Repositories ini merupakan Kelas Online dari Platform [BWASTORE](https://bit.ly/BWASTORE)
 
-Jika ada pihak BWA yang ingin mengecek member saya di Platform BWA bisa email juga ke : dimasandhikadiputra@gmail.com
+Repo ini saya buat untuk mencoba github pages semata, jika ada dari pihak BWA yang mau takedown Repositories ini atau mengecek kelegalan member saya di Platform [BWA](https://buildwithangga.com/) bisa email ke: dimasandhikadiputra@gmail.com
 
 Dimas Andhika - Member BWA
