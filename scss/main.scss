@@ -68,7 +68,7 @@ body {
 .projects {
   .row:nth-child(2) {
     img {
-      border-radius: 10px;
+      border-radius: 10px !important;
       width: 332px;
       height: 152px;
     }
@@ -133,7 +133,7 @@ footer {
   .projects {
     .row:nth-child(2) {
       img {
-        padding: 0 30px;
+        padding: 0 10px;
         border-radius: 10px !important;
         margin-top: 30px;
       }
